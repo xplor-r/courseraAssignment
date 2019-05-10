@@ -1,3 +1,5 @@
+h1 {font-family: 'Bungee', cursive; font-size: 25px; display: inline; text-align: right;}
+
 @media (max-width:767){
   h1 {
     color:red;
